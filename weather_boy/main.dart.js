@@ -40296,10 +40296,10 @@ t[1]=C.e.hD(t[1])
 t[2]=C.e.hD(t[2])
 t[3]=C.e.hD(t[3])}}
 A.va.prototype={
-L:function(a){var t,s,r,q,p,o,n,m,l,k,j="../assets/overcast.jpg",i=null,h=this.c,g=h.c
+L:function(a){var t,s,r,q,p,o,n,m,l,k,j="overcast.jpg",i=null,h=this.c,g=h.c
 if(g==="4")t=j
-else if(g==="0")t="../assets/pluie-fine.jpg"
-else t=g==="2"?"../assets/clouds.jpg":j
+else if(g==="0")t="pluie-fine.jpg"
+else t=g==="2"?"clouds.jpg":j
 g=h.a===""?i:A.ts()
 g=M.bD(i,L.eO(h.a,A.jq(i,i,C.X.h(0,500),i,i,i,i,i,i,i,i,16,i,C.b9,i,i,!0,i,i,i,i,i,i),C.a3),i,i,g,32,i,i,120)
 s=A.ts()
@@ -40321,7 +40321,7 @@ m=P.fa(240,240,240,1)
 m=S.f4(new F.bv(C.k,C.k,C.k,new Y.cL(P.fa(255,255,255,1),2,C.F)),i,i,m,i,i,C.M)
 n=M.bD(i,i,i,i,i,20,i,i,i)
 l=h.r
-k=U.VK("../assets/indicator.jpg")
+k=U.VK("indicator.jpg")
 m=M.bD(i,new T.f7(C.a5,i,i,T.im(H.a([n,new T.qc(E.W0((l+4)*2*3.141592653589793/360-1.5707963267948966),C.a5,!0,k,i),M.bD(i,i,i,i,i,30,i,i,i),L.eO(J.c6(h.x),C.mc,C.a3)],o),C.bI),i),i,i,m,120,i,i,120)
 k=P.fa(240,240,240,1)
 k=S.f4(new F.bv(C.k,C.k,C.k,new Y.cL(P.fa(255,255,255,1),2,C.F)),i,i,k,i,i,C.M)
